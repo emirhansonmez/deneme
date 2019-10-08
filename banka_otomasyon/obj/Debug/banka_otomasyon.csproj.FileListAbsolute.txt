@@ -1,0 +1,9 @@
+C:\Users\Şükriye\source\repos\banka_otomasyon\banka_otomasyon\bin\Debug\banka_otomasyon.exe.config
+C:\Users\Şükriye\source\repos\banka_otomasyon\banka_otomasyon\bin\Debug\banka_otomasyon.exe
+C:\Users\Şükriye\source\repos\banka_otomasyon\banka_otomasyon\bin\Debug\banka_otomasyon.pdb
+C:\Users\Şükriye\source\repos\banka_otomasyon\banka_otomasyon\obj\Debug\banka_otomasyon.Form1.resources
+C:\Users\Şükriye\source\repos\banka_otomasyon\banka_otomasyon\obj\Debug\banka_otomasyon.Properties.Resources.resources
+C:\Users\Şükriye\source\repos\banka_otomasyon\banka_otomasyon\obj\Debug\banka_otomasyon.csproj.GenerateResource.Cache
+C:\Users\Şükriye\source\repos\banka_otomasyon\banka_otomasyon\obj\Debug\banka_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Şükriye\source\repos\banka_otomasyon\banka_otomasyon\obj\Debug\banka_otomasyon.exe
+C:\Users\Şükriye\source\repos\banka_otomasyon\banka_otomasyon\obj\Debug\banka_otomasyon.pdb
